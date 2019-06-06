@@ -1,0 +1,10 @@
+{
+  "name": "album-track-api",
+  "version": "0.0.1",
+  "description": "Simple API to track album information",
+  "scripts": {
+    "prettier": "./node_modules/.bin/prettier --check --write \"src/**/*.js\" \"test-*.js\""
+  },
+  "author": "Mark Slosarek <mark@slosarek.com>",
+  "license": "MIT"
+}
