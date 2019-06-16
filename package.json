@@ -3,8 +3,21 @@
   "version": "0.0.1",
   "description": "Simple API to track album information",
   "scripts": {
+    "prepare": "serverless dynamodb install",
+    "local": "./node_modules/.bin/nodemon -e js,yml --exec \"serverless offline start --stage local --region localhost\"",
     "prettier": "./node_modules/.bin/prettier --check --write \"src/**/*.js\" \"test-*.js\""
   },
   "author": "Mark Slosarek <mark@slosarek.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.17.1",
+    "serverless-dotenv-plugin": "^2.1.1",
+    "serverless-dynamodb-local": "^0.2.38",
+    "serverless-offline": "^5.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
 }

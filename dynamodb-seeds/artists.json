@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+    "name": "Foo Fighters",
+    "albums": [
+      {
+        "id": "94f5f004-4c29-4560-801a-40f13f24427f",
+        "title": "Sonic Highways",
+        "year": "2014",
+        "condition": "Fair"
+      },
+      {
+        "id": "7cce498f-5546-4291-8c96-008f26abacd6",
+        "title": "There Is Nothing Left to Lose",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "1d311999-ff1b-4ce0-b1ce-945aa1b923d3",
+        "title": "Wasting Light",
+        "year": "2011",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "ad531c5a-ccac-4bed-93fd-47783ba5f295",
+        "title": "Foo Fighters",
+        "year": "2011",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "39ab7f83-c3ca-43b2-8979-2b137a1710f8",
+        "title": "Concrete and Gold",
+        "year": "2017",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "name": "Red Hot Chili Peppers",
+    "albums": [
+      {
+        "id": "a7a1b8da-a9ab-4153-8b6a-ee331c391938",
+        "title": "Freaky Styley",
+        "year": "2003",
+        "condition": "Fair"
+      },
+      {
+        "id": "c392a512-ebb1-422d-b8b1-f004597eb12e",
+        "title": "The Red Hot Chili Peppers",
+        "year": "2003",
+        "condition": "Good"
+      },
+      {
+        "id": "83cb5076-c877-46e2-87a8-0245637c948c",
+        "title": "The Uplift Mofo Party Plan",
+        "year": "2003",
+        "condition": "Poor"
+      },
+      {
+        "id": "6036b8bb-cd91-461f-8731-863fe97457b9",
+        "title": "Mother's Milk",
+        "year": "2013",
+        "condition": "Mint"
+      },
+      {
+        "id": "760bfeea-ee5a-440d-a40c-be8651588613",
+        "title": "The EMI Years",
+        "year": "2014",
+        "condition": "Poor"
+      },
+      {
+        "id": "599d1dcd-bb96-4802-91c4-f7afcb0143e1",
+        "title": "Out in L.A.",
+        "year": "1994",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "7c933564-b744-40da-8dbd-5a8c07f0580a",
+        "title": "Mother’s Milk",
+        "year": "2009",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "084308bd-1654-436f-ba03-df6697104e19",
+    "name": "Green Day",
+    "albums": [
+      {
+        "id": "9b64d47f-f2c2-4d95-b6f1-12d4898755bc",
+        "title": "1,039/Smoothed Out Slappy Hours",
+        "year": "2004",
+        "condition": "Good"
+      },
+      {
+        "id": "84466fdd-7e51-4644-92bd-e21bf096fb49",
+        "title": "Shenanigans",
+        "year": "2002",
+        "condition": "Poor"
+      },
+      {
+        "id": "ed653da5-a5eb-4d69-9f17-73af8644e5fa",
+        "title": "Insomniac",
+        "year": "1995",
+        "condition": "Mint"
+      },
+      {
+        "id": "2facd8c7-edbc-412b-8c12-6067024b9175",
+        "title": "American Idiot",
+        "year": "2009",
+        "condition": "Very Good"
+      },
+      {
+        "id": "a13772ac-b17f-4b88-b37e-71427b561aaa",
+        "title": "Dookie",
+        "year": "2016",
+        "condition": "Fair"
+      },
+      {
+        "id": "113801de-cddc-40c5-99b7-766476e11e0d",
+        "title": "21st Century Breakdown",
+        "year": "2009",
+        "condition": "Good"
+      },
+      {
+        "id": "d619f222-7356-4497-a873-3aa45fffc1f8",
+        "title": "Warning:",
+        "year": "2000",
+        "condition": "Fair"
+      },
+      {
+        "id": "cbde4b46-ba4f-4ec1-9d4a-f36b8d02d99e",
+        "title": "¡Dos!",
+        "year": "2012",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "name": "Linkin Park",
+    "albums": [
+      {
+        "id": "a17a48b6-51db-3c52-8fdd-066fb9989f78",
+        "title": "Hybrid Theory",
+        "year": "2000",
+        "condition": "Mint"
+      },
+      {
+        "id": "eb8ff46e-b5ee-43b1-8fff-6cd38922e2e2",
+        "title": "LP Underground 7",
+        "year": "2007",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "f094b92b-d6b6-4e58-b62a-67ca484419cc",
+        "title": "LP Underground 9: Demos",
+        "year": "2009",
+        "condition": "Very Good"
+      },
+      {
+        "id": "8a7e1af9-7a9a-4591-a953-b7dd1de1b9db",
+        "title": "One More Light",
+        "year": "2017",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "e1656e7e-c23f-48e4-894e-fe1e0d5e6707",
+        "title": "Meteora",
+        "year": "2012",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "6c48c82c-b7df-4b0b-987d-666ec8271afb",
+        "title": "Living Things",
+        "year": "2012",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+    "name": "U2",
+    "albums": [
+      {
+        "id": "19fb4543-45ee-4ded-a07b-32568f6214b0",
+        "title": "The Joshua Tree",
+        "year": "1987",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "df2eb860-19cb-431c-919b-51bc86fb2f70",
+        "title": "Achtung Baby",
+        "year": "2011",
+        "condition": "Good"
+      },
+      {
+        "id": "9e13ced1-af6e-42fe-a1ea-aa672ef1deab",
+        "title": "War",
+        "year": "1983",
+        "condition": "Mint"
+      },
+      {
+        "id": "3d62bfe5-141c-4365-8adf-6ea913e2c304",
+        "title": "The Unforgettable Fire",
+        "year": "1984",
+        "condition": "Fair"
+      },
+      {
+        "id": "11ce0286-fc66-4b20-9c35-b0c72e52cef1",
+        "title": "Under a Blood Red Sky",
+        "year": "2008",
+        "condition": "Mint"
+      },
+      {
+        "id": "b6bf55c5-5486-4d1e-bd3f-f843a7aee3a5",
+        "title": "U218 Singles",
+        "year": "2017",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+    "name": "Incubus",
+    "albums": [
+      {
+        "id": "208c525a-f33d-4282-a91c-7bf591d3dd8d",
+        "title": "Make Yourself",
+        "year": "1999",
+        "condition": "Poor"
+      },
+      {
+        "id": "66be8000-ba6a-4a5d-b391-a17f9ff9910d",
+        "title": "Monuments and Melodies",
+        "year": "2009",
+        "condition": "Fair"
+      },
+      {
+        "id": "9c82dd78-ed26-43d6-93e6-e93c8097fa48",
+        "title": "A Crow Left of the Murder...",
+        "year": "2004",
+        "condition": "Poor"
+      },
+      {
+        "id": "b2c2aeee-0d65-461c-9af1-d9ea97bf0979",
+        "title": "If Not Now, When?",
+        "year": "2011",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "f1edc40a-a2a0-4396-b088-3714f964e11b",
+        "title": "Morning View",
+        "year": "2001",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+    "name": "Weezer",
+    "albums": [
+      {
+        "id": "b81297e7-3763-488a-a916-25b7c4c98700",
+        "title": "Raditude",
+        "year": "2009",
+        "condition": "Poor"
+      },
+      {
+        "id": "2a7f1461-f3df-4b21-a23d-e0303f793d1f",
+        "title": "Make Believe",
+        "year": "2005",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "3f9068bb-d4c1-4d2c-84ff-8c0851ec3af4",
+        "title": "Weezer",
+        "year": "2008",
+        "condition": "Fair"
+      },
+      {
+        "id": "118cfe63-2e92-43a2-8372-da9b4fa39ac4",
+        "title": "Pacific Daydream",
+        "year": "2017",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "5b81f161-31ee-48b9-859b-57da681c5fb8",
+        "title": "Hurley",
+        "year": "2010",
+        "condition": "Mint"
+      },
+      {
+        "id": "49d996b2-ab53-41bd-8789-3d87938dc07d",
+        "title": "Pinkerton",
+        "year": "1996",
+        "condition": "Very Good"
+      },
+      {
+        "id": "964eb1bb-c438-4a20-a5cd-3a7646fcdbb7",
+        "title": "Death to False Metal",
+        "year": "2014",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "name": "The Beatles",
+    "albums": [
+      {
+        "id": "366a3101-301d-4ffd-87cc-041df5f75493",
+        "title": "Help!",
+        "year": "1991",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "2051f0dd-1355-41ad-8414-9d5f65a96086",
+        "title": "Beatles VI",
+        "year": "1965",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "95a32699-1d6c-4087-8fd5-dcf5afd4acaa",
+        "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+        "year": "2017",
+        "condition": "Good"
+      },
+      {
+        "id": "c75d2647-f2cb-4470-8eb3-16ea25238104",
+        "title": "The Beatles",
+        "year": "1983",
+        "condition": "Poor"
+      },
+      {
+        "id": "872b3955-29f1-3ae9-bce7-37deade703c0",
+        "title": "Yellow Submarine",
+        "year": "1969",
+        "condition": "Poor"
+      },
+      {
+        "id": "b0ede259-4f5e-44d9-83b2-32e8dc2d36cc",
+        "title": "Magical Mystery Tour",
+        "year": "1981",
+        "condition": "Good"
+      },
+      {
+        "id": "f8235662-5cc6-4636-b074-7e4a6878d281",
+        "title": "Beatles for Sale",
+        "year": "1992",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "4b585938-f271-45e2-b19a-91c634b5e396",
+    "name": "Kate Bush",
+    "albums": [
+      {
+        "id": "1988c98f-21ff-44b0-82fe-6c8d6f020833",
+        "title": "Before the Dawn",
+        "year": "2016",
+        "condition": "Fair"
+      },
+      {
+        "id": "89c9e35d-66fa-4e97-9286-cf36665deb4b",
+        "title": "The Whole Story",
+        "year": "1986",
+        "condition": "Good"
+      },
+      {
+        "id": "f507ecfb-827d-4375-8b31-016dc27a66e3",
+        "title": "Director's Cut",
+        "year": "2011",
+        "condition": "Poor"
+      },
+      {
+        "id": "3a0fe90d-ed43-3218-aebe-6eb98b4d7b26",
+        "title": "The Sensual World",
+        "year": "2008",
+        "condition": "Fair"
+      },
+      {
+        "id": "bd797559-d438-3b34-bed5-66babd10d361",
+        "title": "Lionheart",
+        "year": "1978",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "be5acbd2-08a4-3d19-aeb1-64186626cb8a",
+        "title": "Hounds of Love",
+        "year": "1988",
+        "condition": "Fair"
+      },
+      {
+        "id": "aa4b2092-0805-4cde-8a5f-1f0e3cae3aa8",
+        "title": "The Kick Inside",
+        "year": "1997",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "name": "The Smashing Pumpkins",
+    "albums": [
+      {
+        "id": "70cef2a3-1326-3bad-8045-93e4a15905b2",
+        "title": "Gish",
+        "year": "1994",
+        "condition": "Very Good"
+      },
+      {
+        "id": "f0e4f513-82a7-4fa9-90a6-295c5e23a2f1",
+        "title": "Zeitgeist",
+        "year": "2007",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "7925da59-b862-41fd-b0cd-4a9b345f036f",
+        "title": "Mellon Collie and the Infinite Sadness",
+        "year": "2012",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "e93d9f07-b8d2-4744-ad02-5ea118618464",
+        "title": "Inside the Dream Machine",
+        "year": "2015",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "9d087a31-4788-41e4-8f0e-0f5c83994faf",
+        "title": "The Aeroplane Flies High",
+        "year": "1996",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "83675dbd-ec66-4d0a-93a8-cd386c8236c1",
+        "title": "Oceania",
+        "year": "2012",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "name": "Muse",
+    "albums": [
+      {
+        "id": "82b990ab-cfd7-3f55-a7c9-7a5522bd777f",
+        "title": "Showbiz",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "6ff10d60-8e80-4f51-9037-2932b5f49f5a",
+        "title": "Absolution",
+        "year": "2003",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "a58167c5-4645-440f-b50c-e48fb2b15d98",
+        "title": "The 2nd Law",
+        "year": "2012",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "8d314e18-d34d-43bf-920b-493f737cd3ed",
+        "title": "The Resistance",
+        "year": "2009",
+        "condition": "Mint"
+      },
+      {
+        "id": "3df743fa-41f3-4fa5-8d3d-965d364b7f91",
+        "title": "Drones",
+        "year": "2015",
+        "condition": "Mint"
+      },
+      {
+        "id": "b7cfcbb0-bfb6-3d57-82c8-f6c2a5cf30e5",
+        "title": "HAARP",
+        "year": "2008",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "627d3aba-bb27-485f-bdb1-7444ddca3db2",
+        "title": "Simulation Theory",
+        "year": "2018",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "0743b15a-3c32-48c8-ad58-cb325350befa",
+    "name": "blink‐182",
+    "albums": [
+      {
+        "id": "508e0a1d-963c-4afb-b0fe-34b1ef951f3e",
+        "title": "The Mark, Tom, and Travis Show (The Enema Strikes Back!)",
+        "year": "2000",
+        "condition": "Very Good"
+      },
+      {
+        "id": "8e048797-0da0-3ad7-b739-5ba655cb9b52",
+        "title": "Cheshire Cat",
+        "year": "1994",
+        "condition": "Very Good"
+      },
+      {
+        "id": "e7434310-b0b6-4c9f-beb4-89a27edf566e",
+        "title": "Dude Ranch",
+        "year": "1997",
+        "condition": "Fair"
+      },
+      {
+        "id": "6474a9fd-0dc6-4e82-ab26-1e7726aeb9c0",
+        "title": "Take Off Your Pants and Jacket",
+        "year": "2001",
+        "condition": "Fair"
+      },
+      {
+        "id": "d908246c-5ef9-4c21-a149-003a8e6891aa",
+        "title": "Buddha",
+        "year": "1994",
+        "condition": "Fair"
+      },
+      {
+        "id": "6bde3197-c5d6-4017-bf09-1979e7417dbc",
+        "title": "California",
+        "year": "2016",
+        "condition": "Very Good"
+      },
+      {
+        "id": "a661a067-9abc-4372-a8c1-f2dccc449801",
+        "title": "blink-182",
+        "year": "2004",
+        "condition": "Mint"
+      },
+      {
+        "id": "e1f13eb1-e499-4d4b-b9af-e1215a874e87",
+        "title": "Neighborhoods",
+        "year": "2011",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+    "name": "Cage the Elephant",
+    "albums": [
+      {
+        "id": "4896e0a1-57eb-49bd-8ae7-24f12600bb53",
+        "title": "Tell Me I’m Pretty",
+        "year": "2015",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "9ad55127-f60a-4ed0-8eae-7fdf81fa480c",
+        "title": "Unpeeled",
+        "year": "2017",
+        "condition": "Fair"
+      },
+      {
+        "id": "baa0521d-0bcd-4281-808e-c1887bfe0c1c",
+        "title": "Cage the Elephant",
+        "year": "2008",
+        "condition": "Fair"
+      },
+      {
+        "id": "4a85fb7b-230a-4b90-a99f-2044c3858457",
+        "title": "Melophobia",
+        "year": "2013",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "fc6cb916-d58c-4f95-9db4-a361a2954087",
+        "title": "Thank You, Happy Birthday",
+        "year": "2011",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "05f8bc81-45ee-4b7e-ac37-fccd3eea0e04",
+        "title": "Social Cues",
+        "year": "2019",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+    "name": "Imagine Dragons",
+    "albums": [
+      {
+        "id": "25c11880-bc5e-43db-927b-522eb871dc9e",
+        "title": "Evolve",
+        "year": "2018",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "86351876-1cb2-489c-a85d-65026f6249e0",
+        "title": "Night Visions",
+        "year": "2012",
+        "condition": "Good"
+      },
+      {
+        "id": "28adcf65-8c07-4da2-96eb-582943c0327d",
+        "title": "Origins",
+        "year": "2018",
+        "condition": "Poor"
+      },
+      {
+        "id": "50c03072-fa28-411d-be28-c3244d23f14f",
+        "title": "Smoke + Mirrors",
+        "year": "2015",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "name": "Stone Temple Pilots",
+    "albums": [
+      {
+        "id": "36b8f767-c4c0-4ba1-becd-f40a452303d5",
+        "title": "Purple",
+        "year": "1995",
+        "condition": "Good"
+      },
+      {
+        "id": "b5975bd8-ede6-42fc-87b7-fbe12230be04",
+        "title": "Stone Temple Pilots",
+        "year": "2010",
+        "condition": "Poor"
+      },
+      {
+        "id": "bbebba87-ddb1-4ff6-8c93-c3c567869a74",
+        "title": "Core",
+        "year": "2017",
+        "condition": "Mint"
+      },
+      {
+        "id": "ae5b50cf-2305-4d70-a0c1-e5595446277d",
+        "title": "№4",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "95819774-e832-4800-a383-610adb80e344",
+        "title": "Thank You",
+        "year": "2003",
+        "condition": "Very Good"
+      },
+      {
+        "id": "c9327c3b-333a-4cb3-b309-ec3e0b817e3a",
+        "title": "Shangri‐La Dee Da",
+        "year": "2001",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
+    "name": "Staind",
+    "albums": [
+      {
+        "id": "5e21832b-67fb-3962-bd35-3ff18a1af99b",
+        "title": "Break the Cycle",
+        "year": "2001",
+        "condition": "Poor"
+      },
+      {
+        "id": "428bd164-3c01-459c-a613-d0597ecafa11",
+        "title": "The Singles: 1996-2006",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "695ff97d-33c1-4669-969e-f6fabe8683b3",
+        "title": "Dysfunction",
+        "year": "1999",
+        "condition": "Mint"
+      },
+      {
+        "id": "76723a1a-fe60-4269-8e85-8d228088e242",
+        "title": "Staind",
+        "year": "2011",
+        "condition": "Poor"
+      },
+      {
+        "id": "3f3f627c-bee0-4b0b-a06f-76ffb13999a6",
+        "title": "The Illusion of Progress",
+        "year": "2008",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "b637d909-ed6d-365e-8469-f2da7014c823",
+        "title": "Chapter V",
+        "year": "2005",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+    "name": "Three Days Grace",
+    "albums": [
+      {
+        "id": "ea029bda-089b-4c62-be18-2856681ab473",
+        "title": "The Collection: Three Days Grace",
+        "year": "2011",
+        "condition": "Very Good"
+      },
+      {
+        "id": "1df76dd9-cf16-4342-9679-d6ee97c2926f",
+        "title": "One-X",
+        "year": "2007",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "bd123cc1-e45a-4243-a663-cbf058d7c1c3",
+        "title": "Transit of Venus",
+        "year": "2012",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "48e50f1b-6e23-4926-b179-d267cab063da",
+        "title": "Three Days Grace",
+        "year": "2004",
+        "condition": "Mint"
+      },
+      {
+        "id": "e6d3884c-e8a0-4d6d-8878-48edb15244de",
+        "title": "One‐X",
+        "year": "2006",
+        "condition": "Poor"
+      },
+      {
+        "id": "5f011d51-e494-4183-b44f-e8c500801097",
+        "title": "Human",
+        "year": "2015",
+        "condition": "Fair"
+      },
+      {
+        "id": "c0f29df1-6784-4d88-9687-a74ce5e0dba0",
+        "title": "Outsider",
+        "year": "2018",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "name": "Nirvana",
+    "albums": [
+      {
+        "id": "b4e87df5-e995-4438-ae42-c8df327f163f",
+        "title": "Nevermind",
+        "year": "2011",
+        "condition": "Very Good"
+      },
+      {
+        "id": "322d8c57-210a-4f0b-a718-245fe5348d5e",
+        "title": "Bleach",
+        "year": "2011",
+        "condition": "Fair"
+      },
+      {
+        "id": "d5a91545-cd6e-4370-8ad9-e429e3449f5b",
+        "title": "In Utero",
+        "year": "2009",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "cba77ba2-862d-4cee-a8f6-d3f9daf7211c",
+    "name": "Live",
+    "albums": [
+      {
+        "id": "b1f6e431-434a-44af-97d7-b0423031edd1",
+        "title": "Mental Jewelry",
+        "year": "2017",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "02e71dd7-abd5-31ba-a6c3-b85c9210af90",
+        "title": "Birds of Pray",
+        "year": "2003",
+        "condition": "Fair"
+      },
+      {
+        "id": "a446de47-636f-4d98-a6e9-c3f7222368dc",
+        "title": "The Distance to Here",
+        "year": "1999",
+        "condition": "Good"
+      },
+      {
+        "id": "ccfdd31a-17e3-32e1-b4dd-e001d3b49d39",
+        "title": "V",
+        "year": "2001",
+        "condition": "Fair"
+      },
+      {
+        "id": "df7eb3b4-97bd-4f9d-a4b4-97e3d0368e68",
+        "title": "Secret Samadhi",
+        "year": "1997",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "c2867b88-7a85-47ef-84b7-d1c750c6df15",
+        "title": "Throwing Copper",
+        "year": "2005",
+        "condition": "Mint"
+      },
+      {
+        "id": "4bfe232a-44e6-4e5c-a9db-9e3fcd7dc1d3",
+        "title": "Radiant Sea",
+        "year": "2007",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "d15721d8-56b4-453d-b506-fc915b14cba2",
+    "name": "The Black Keys",
+    "albums": [
+      {
+        "id": "a94850f4-e8b3-333f-b219-c21dbc400d11",
+        "title": "Attack & Release",
+        "year": "2008",
+        "condition": "Mint"
+      },
+      {
+        "id": "f34796eb-2e70-4571-b8dc-daf284ffdddb",
+        "title": "Turn Blue",
+        "year": "2014",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "7d995ba6-1839-4166-9a4b-1bd7ea536f1a",
+        "title": "The Big Come Up",
+        "year": "2002",
+        "condition": "Fair"
+      },
+      {
+        "id": "da232a39-3874-4d1b-b966-bdee018118d9",
+        "title": "Magic Potion",
+        "year": "2006",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "a40fc6ad-9ec3-4a61-abee-79f06f82f642",
+        "title": "Brothers",
+        "year": "2010",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "606bf117-494f-4864-891f-09d63ff6aa4b",
+    "name": "Rise Against",
+    "albums": [
+      {
+        "id": "e03867dc-7623-4ca2-814e-43776ffa2c26",
+        "title": "The Collection",
+        "year": "2014",
+        "condition": "Poor"
+      },
+      {
+        "id": "acd98f4b-8ef8-469d-b3bc-848b85007f88",
+        "title": "RPM10",
+        "year": "2013",
+        "condition": "Very Good"
+      },
+      {
+        "id": "6e7db472-bbdd-4238-9b1e-3eea0d8ad338",
+        "title": "The Sufferer & The Witness",
+        "year": "2006",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "7a6b025a-5e83-3c3d-9a5e-6e44ff608795",
+        "title": "The Unraveling",
+        "year": "2001",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+    "name": "Coldplay",
+    "albums": [
+      {
+        "id": "5b229e6c-13b1-4b36-b20e-286e854bf8e1",
+        "title": "A Rush of Blood to the Head",
+        "year": "2002",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "ed4df4ff-6eff-41f9-b4b1-b7505bc4f72a",
+        "title": "Left Right Left Right Left",
+        "year": "2009",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "c1b0fac7-e1db-485a-8367-5472b561f02b",
+        "title": "Parachutes",
+        "year": "2016",
+        "condition": "Poor"
+      },
+      {
+        "id": "53f77c54-e01f-41ad-90bb-7d1fc0d3dbf8",
+        "title": "X&Y",
+        "year": "2016",
+        "condition": "Good"
+      },
+      {
+        "id": "9cde36b8-a9ed-4a07-8753-2d081240aedb",
+        "title": "Viva la Vida or Death and All His Friends",
+        "year": "2016",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "bf600e2b-dc2d-4839-a1be-6ebef4087cd0",
+    "name": "311",
+    "albums": [
+      {
+        "id": "8f4813fc-2f64-4d76-9c47-cb5037ac018f",
+        "title": "Stereolithic",
+        "year": "2014",
+        "condition": "Fair"
+      },
+      {
+        "id": "f3938ecc-8072-4aa7-8d90-b57f736c4980",
+        "title": "311",
+        "year": "2007",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "93ba1ade-045f-4e26-9ff3-a3c334b5175e",
+        "title": "Uplifter",
+        "year": "2009",
+        "condition": "Very Good"
+      },
+      {
+        "id": "2c507595-b4ef-4698-8bd0-453d620bf2dc",
+        "title": "Mosaic",
+        "year": "2017",
+        "condition": "Mint"
+      },
+      {
+        "id": "dcdf976a-af4e-4ced-a644-eea33977ab92",
+        "title": "Soundsystem",
+        "year": "2001",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+    "name": "Depeche Mode",
+    "albums": [
+      {
+        "id": "f930d56e-5e38-3e84-87fa-efb6440227a6",
+        "title": "Barrel of a Gun",
+        "year": "2004",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "8747b6cc-86cf-3dd6-9c56-d362f27e2217",
+        "title": "Enjoy the Silence",
+        "year": "2004",
+        "condition": "Good"
+      },
+      {
+        "id": "9715a0d1-dc1f-39ad-8205-c31181e20638",
+        "title": "Personal Jesus",
+        "year": "2004",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "ea32b594-c80a-382b-a22d-1e925931190a",
+        "title": "Useless",
+        "year": "2004",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "013fa897-86db-41d3-8e9f-386c8a34f4e6",
+    "name": "Morrissey",
+    "albums": [
+      {
+        "id": "067b65ef-179b-4165-93e5-407eb98b1762",
+        "title": "You Are The Quarry",
+        "year": "2004",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "f792f7ea-7ad3-30a8-859a-290720446ee0",
+        "title": "Years of Refusal",
+        "year": "2009",
+        "condition": "Mint"
+      },
+      {
+        "id": "a58efa7d-e200-4e6c-96ab-ebedb53508c5",
+        "title": "Your Arsenal",
+        "year": "2014",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "51cf1719-e71d-4c59-8b1f-a0d2cb1d611b",
+        "title": "My Early Burglary Years",
+        "year": "1998",
+        "condition": "Good"
+      },
+      {
+        "id": "43688e7c-a71f-4ebb-992d-c8a2b52e60db",
+        "title": "You Are the Quarry",
+        "year": "2004",
+        "condition": "Fair"
+      },
+      {
+        "id": "769aa84f-4200-4d25-9c4d-9b14b485cd0a",
+        "title": "Viva Hate",
+        "year": "1988",
+        "condition": "Mint"
+      },
+      {
+        "id": "6d81c071-dca9-457f-8a32-714082502a79",
+        "title": "Bona Drag",
+        "year": "1990",
+        "condition": "Mint"
+      },
+      {
+        "id": "480ad9cd-bbab-4b3a-bdf2-8201c23b1dab",
+        "title": "Introducing Morrissey",
+        "year": "1996",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+    "name": "Nine Inch Nails",
+    "albums": [
+      {
+        "id": "6f4e2d84-d4af-3930-adb8-ea906db4e0e0",
+        "title": "Closer to God",
+        "year": "1994",
+        "condition": "Fair"
+      },
+      {
+        "id": "9053e7c4-b0f1-4e50-9a96-6698eba0322c",
+        "title": "And All That Could Have Been",
+        "year": "2002",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "60a04a88-3956-49f5-9d0f-b2603be9f612",
+        "title": "Pretty Hate Machine",
+        "year": "1989",
+        "condition": "Fair"
+      },
+      {
+        "id": "45976613-ad35-4ae6-a4aa-b5f795e49d9c",
+        "title": "With Teeth",
+        "year": "2005",
+        "condition": "Poor"
+      },
+      {
+        "id": "9244e17d-5559-3836-810b-3c12999b6cfa",
+        "title": "The Slip",
+        "year": "2008",
+        "condition": "Poor"
+      },
+      {
+        "id": "61638deb-6bce-3795-a26c-ac2a92b7e66c",
+        "title": "Y34RZ3R0R3M1X3D",
+        "year": "2007",
+        "condition": "Mint"
+      },
+      {
+        "id": "70475afd-e9b1-4a84-abcd-5aa2e867dea8",
+        "title": "Year Zero",
+        "year": "2007",
+        "condition": "Poor"
+      },
+      {
+        "id": "7402dfc3-7e69-4f63-b2f3-d5ade2866027",
+        "title": "Further Down the Spiral",
+        "year": "1995",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+    "name": "Seether",
+    "albums": [
+      {
+        "id": "986ed694-96b3-44dc-90e8-be45be06c907",
+        "title": "Disclaimer",
+        "year": "2002",
+        "condition": "Very Good"
+      },
+      {
+        "id": "6313ca57-91de-4f6b-b6a8-6ba652a8cb9d",
+        "title": "Finding Beauty in Negative Spaces",
+        "year": "2009",
+        "condition": "Poor"
+      },
+      {
+        "id": "30bc4e0d-93f5-49a6-b919-3c582d5a5a4a",
+        "title": "One Cold Night",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "087ddad9-2cef-487c-8087-f1fc8d30c2bf",
+        "title": "Karma and Effect",
+        "year": "2005",
+        "condition": "Good"
+      },
+      {
+        "id": "92f2e3f1-ec48-46d5-bede-4a57d219abcf",
+        "title": "Seether: 2002–2013",
+        "year": "2014",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "d8354b38-e942-4c89-ba93-29323432abc3",
+    "name": "Thirty Seconds to Mars",
+    "albums": [
+      {
+        "id": "35a68426-e638-457a-841d-c6e202654639",
+        "title": "A Beautiful Lie",
+        "year": "2005",
+        "condition": "Poor"
+      },
+      {
+        "id": "3d7857ce-7191-4dab-a919-9140cc601a8c",
+        "title": "AMERICA",
+        "year": "2018",
+        "condition": "Very Good"
+      },
+      {
+        "id": "94e41f93-0d5e-412a-8761-6990a7114f7a",
+        "title": "This Is War",
+        "year": "2009",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "c3b239c6-60fd-4798-99d8-a0373147d779",
+        "title": "30 Seconds to Mars",
+        "year": "2002",
+        "condition": "Poor"
+      },
+      {
+        "id": "e3563aa1-7570-4d2d-9aa7-d1f18562b782",
+        "title": "LOVE LUST FAITH + DREAMS",
+        "year": "2013",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "8456e9f7-debf-4579-a86c-33a325a35d2d",
+    "name": "Chevelle",
+    "albums": [
+      {
+        "id": "a549757b-d9b9-4f50-8aa2-ce7dc1343756",
+        "title": "Stray Arrows: A Collection of Favorites",
+        "year": "2012",
+        "condition": "Good"
+      },
+      {
+        "id": "1c3a9e74-8c3f-459c-b326-a490e644e5a9",
+        "title": "Vena Sera",
+        "year": "2007",
+        "condition": "Good"
+      },
+      {
+        "id": "39592a4d-2d82-4d46-9469-a7fceb012fc0",
+        "title": "Wonder What's Next",
+        "year": "2007",
+        "condition": "Very Good"
+      },
+      {
+        "id": "b791e5ce-9222-4a88-a23a-619a33eec995",
+        "title": "Hats Off to the Bull",
+        "year": "2011",
+        "condition": "Good"
+      },
+      {
+        "id": "82689602-bea9-459b-b1bd-1bb20c6ec4a1",
+        "title": "Sci‐Fi Crimes",
+        "year": "2009",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "c5eb9407-caeb-4303-b383-6929aa94021c",
+    "name": "Papa Roach",
+    "albums": [
+      {
+        "id": "c4aa87b6-8cd7-4149-9545-725a53ef5c61",
+        "title": "F.E.A.R.",
+        "year": "2015",
+        "condition": "Very Good"
+      },
+      {
+        "id": "7216fd12-944d-4645-b92f-917c21954cc0",
+        "title": "The Paramour Sessions",
+        "year": "2006",
+        "condition": "Fair"
+      },
+      {
+        "id": "dee46379-dc39-4588-8fe8-1e53d61e2ed7",
+        "title": "Lovehatetragedy",
+        "year": "2002",
+        "condition": "Very Good"
+      },
+      {
+        "id": "1ad3ec37-3395-4469-8f9d-df44008a19be",
+        "title": "The Connection",
+        "year": "2012",
+        "condition": "Poor"
+      },
+      {
+        "id": "c3b775bc-4862-4a95-83b4-cd486cde1aa6",
+        "title": "Metamorphosis",
+        "year": "2009",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "8d779082-5719-4395-bed7-6396200b0c51",
+        "title": "Infest",
+        "year": "2000",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+    "name": "Kings of Leon",
+    "albums": [
+      {
+        "id": "8f65be4e-72a5-4b90-b78e-c3205f7a006f",
+        "title": "WALLS",
+        "year": "2016",
+        "condition": "Mint"
+      },
+      {
+        "id": "18844435-9494-42ba-b7c3-3cb3d7e47552",
+        "title": "Mechanical Bull",
+        "year": "2013",
+        "condition": "Mint"
+      },
+      {
+        "id": "fd38e84a-6aff-410d-a990-deabfd5d872a",
+        "title": "Come Around Sundown",
+        "year": "2010",
+        "condition": "Mint"
+      },
+      {
+        "id": "b57a5aff-1300-463a-bea4-6babde050ae0",
+        "title": "Only by the Night",
+        "year": "2008",
+        "condition": "Mint"
+      },
+      {
+        "id": "c723b7e0-3f6d-4237-89e1-cbc0110878de",
+        "title": "Rarely",
+        "year": "2013",
+        "condition": "Mint"
+      },
+      {
+        "id": "f8504259-e798-4640-826f-67bc68e0f59c",
+        "title": "Boxed",
+        "year": "2010",
+        "condition": "Very Good"
+      },
+      {
+        "id": "3d25faee-0ed8-402a-b02b-62cc9d69f7fd",
+        "title": "The Early Vinyl",
+        "year": "2011",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "39ab1aed-75e0-4140-bd47-540276886b60",
+    "name": "Oasis",
+    "albums": [
+      {
+        "id": "31156a4a-0ed1-3ade-b528-0dd0122ced0a",
+        "title": "Familiar to Millions",
+        "year": "2001",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "2ae5df03-2f67-4410-a9b2-2639da7a3d5a",
+        "title": "(What’s the Story) Morning Glory?",
+        "year": "2003",
+        "condition": "Poor"
+      },
+      {
+        "id": "64e8aa64-5319-4230-9a4a-d972d78e5a2a",
+        "title": "Standing on the Shoulder of Giants",
+        "year": "2009",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "d4cba698-1145-443b-9c5e-83217f0607b6",
+        "title": "Stop the Clocks",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "a0162eda-d7d8-3eeb-b325-5a09795729b3",
+        "title": "Be Here Now",
+        "year": "1997",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "ff460a70-fdf4-4aa2-b021-8a04da76d88e",
+    "name": "Puddle of Mudd",
+    "albums": [
+      {
+        "id": "38e56a95-b97b-4e95-ae7d-f7769ab421de",
+        "title": "Life on Display",
+        "year": "2003",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "3cb3bdb4-412c-463c-a66b-0f21b84bce52",
+        "title": "Abrasive",
+        "year": "1998",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "c4a9c9aa-c69d-37ed-ae3d-f248aa68b442",
+        "title": "Come Clean",
+        "year": "2001",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "7c902d4c-92ef-44d3-a8db-292f63af6706",
+        "title": "ICON",
+        "year": "2010",
+        "condition": "Good"
+      },
+      {
+        "id": "231affee-6068-497d-a537-5a1555c1ab36",
+        "title": "Famous",
+        "year": "2007",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+    "name": "twenty one pilots",
+    "albums": [
+      {
+        "id": "f493641b-6321-4376-9579-58a966726b01",
+        "title": "Blurryface",
+        "year": "2015",
+        "condition": "Very Good"
+      },
+      {
+        "id": "8242b961-bef1-4a66-806b-27fc85a58574",
+        "title": "Vessel",
+        "year": "2013",
+        "condition": "Good"
+      },
+      {
+        "id": "c684dc5c-1e6b-41c4-9cbb-3609425f3451",
+        "title": "Trench",
+        "year": "2018",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+    "name": "Jimmy Eat World",
+    "albums": [
+      {
+        "id": "10a4bf38-d84b-4f87-9c9c-d93183b675e4",
+        "title": "Bleed American",
+        "year": "2008",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "2ce52e51-109a-4d21-acb1-4db343ef6ca8",
+        "title": "Clarity",
+        "year": "2007",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "5c8f32ed-8a70-3f2b-afc9-8456ed844a76",
+        "title": "Chase This Light",
+        "year": "2007",
+        "condition": "Fair"
+      },
+      {
+        "id": "1b59efd0-95aa-4397-97bd-e5d905f460d4",
+        "title": "Damage",
+        "year": "2013",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "f8956660-98c7-4230-8b7b-164c8cb8ffcb",
+        "title": "Static Prevails",
+        "year": "1996",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "020bfbb4-05c3-4c86-b372-17825c262094",
+    "name": "Audioslave",
+    "albums": [
+      {
+        "id": "02016b47-3bcd-4505-97c9-8c5d126fc62f",
+        "title": "Revelations",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "07fc4a1d-ae17-484f-a23b-10a6c8fc0b1d",
+        "title": "Audioslave",
+        "year": "2002",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "d25b3aaf-bebd-450f-9e35-4165a979a688",
+        "title": "Out of Exile",
+        "year": "2005",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
+    "name": "Mumford & Sons",
+    "albums": [
+      {
+        "id": "c84050fb-4864-4ec1-bbc8-f6cd1f5daa54",
+        "title": "Sigh No More",
+        "year": "2010",
+        "condition": "Very Good"
+      },
+      {
+        "id": "8cf6f9e0-9a9b-4b3c-a130-2f79b813eaf7",
+        "title": "Babel",
+        "year": "2012",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "972a1632-97de-4c27-9585-ff82c55d1d1e",
+        "title": "Delta",
+        "year": "2018",
+        "condition": "Good"
+      },
+      {
+        "id": "3b675b27-c087-49e9-9e50-1875d88bf78c",
+        "title": "Wilder Mind",
+        "year": "2015",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+    "name": "Everclear",
+    "albums": [
+      {
+        "id": "8f4c61e4-fd52-4ab1-bba2-3da2fa929499",
+        "title": "Sparkle and Fade",
+        "year": "1995",
+        "condition": "Mint"
+      },
+      {
+        "id": "3fa1e61d-46d3-36a7-a693-54671c632c6b",
+        "title": "World of Noise",
+        "year": "1993",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "3dd1773f-d12e-49d6-97f5-16e6c149fe6f",
+        "title": "Slow Motion Daydream",
+        "year": "2003",
+        "condition": "Mint"
+      },
+      {
+        "id": "402c103a-91cf-40fe-bebd-289a19bded01",
+        "title": "Welcome to the Drama Club",
+        "year": "2006",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+    "name": "Nickelback",
+    "albums": [
+      {
+        "id": "44385818-77a3-4284-9993-054e8c167e9d",
+        "title": "All the Right Reasons",
+        "year": "2007",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "ca2615fb-a9d8-3c3b-897f-ff97a593cc07",
+        "title": "The Long Road",
+        "year": "2003",
+        "condition": "Fair"
+      },
+      {
+        "id": "ed8e0ee9-f750-4a07-9ec0-e50fc0a865d4",
+        "title": "Silver Side Up",
+        "year": "2001",
+        "condition": "Very Good"
+      },
+      {
+        "id": "4bf29d1c-3112-4dc1-a3bf-9b3b33c3831a",
+        "title": "Feed the Machine",
+        "year": "2017",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "109958eb-a335-4c5e-907e-597ff4c6af46",
+    "name": "Creedence Clearwater Revival",
+    "albums": [
+      {
+        "id": "c2053ec6-d9fa-4a58-898f-0e4c4c1c20e0",
+        "title": "Rock Legends",
+        "year": "2007",
+        "condition": "Very Good"
+      },
+      {
+        "id": "4f4bef42-fab8-4110-9a60-65856b7c46ae",
+        "title": "Creedence Country",
+        "year": "2004",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "107f2a0a-7ea2-4e28-a309-ca4522f59cde",
+        "title": "Willy and the Poor Boys",
+        "year": "2000",
+        "condition": "Mint"
+      },
+      {
+        "id": "a263080b-30ac-40f2-af52-f53a64589dad",
+        "title": "Cosmo’s Factory",
+        "year": "2014",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "52676ce3-482f-3a83-be7d-582c01d558df",
+        "title": "Green River",
+        "year": "2000",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "80b30b91-5b5b-433b-8cf7-3590aa31ad79",
+        "title": "More Creedence Gold",
+        "year": "1991",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "e2c00c56-8365-4160-9f40-a64682917633",
+    "name": "Goo Goo Dolls",
+    "albums": [
+      {
+        "id": "350ba9da-e211-4f44-9893-3ca9b866eee8",
+        "title": "Something for the Rest of Us",
+        "year": "2010",
+        "condition": "Very Good"
+      },
+      {
+        "id": "e7c32a45-168e-4f0e-91c1-1450692d6ff7",
+        "title": "Jed",
+        "year": "2017",
+        "condition": "Mint"
+      },
+      {
+        "id": "a9c305bf-977d-4ab5-ac6e-95b7aa0a625f",
+        "title": "Magnetic",
+        "year": "2013",
+        "condition": "Good"
+      },
+      {
+        "id": "e06396d5-530d-4542-b8a1-9ff37e83964c",
+        "title": "Let Love In",
+        "year": "2006",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "d7ce69da-5874-4ee0-a75a-5b4564f94a6f",
+        "title": "Boxes",
+        "year": "2016",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+    "name": "3 Doors Down",
+    "albums": [
+      {
+        "id": "2bde5023-33c5-4074-8246-c90ae4cc44e2",
+        "title": "Seventeen Days",
+        "year": "2005",
+        "condition": "Fair"
+      },
+      {
+        "id": "bcf2ee1b-503a-49b0-9590-2ee83fc422c0",
+        "title": "The Better Life",
+        "year": "2007",
+        "condition": "Mint"
+      },
+      {
+        "id": "1515148d-f750-4d0e-be35-ffaf2abc30a3",
+        "title": "Time of My Life",
+        "year": "2011",
+        "condition": "Fair"
+      },
+      {
+        "id": "9b20d7cd-0709-4e6e-847a-b8cebe77e28f",
+        "title": "3 Doors Down",
+        "year": "2008",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "481bf5f9-2e7c-4c44-b08a-05b32bc7c00d",
+    "name": "INXS",
+    "albums": [
+      {
+        "id": "b039017f-a916-37c4-913f-b1885e37bbd4",
+        "title": "Welcome to Wherever You Are",
+        "year": "1992",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "73020dd2-559a-4a91-93cc-b05ac0883000",
+        "title": "The Swing",
+        "year": "2014",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "20617bcd-68e0-45fd-9edf-3558ffea1001",
+        "title": "Shabooh Shoobah",
+        "year": "1982",
+        "condition": "Good"
+      },
+      {
+        "id": "5b20c8aa-678f-48ca-b2a2-999904c52a93",
+        "title": "Elegantly Wasted",
+        "year": "1997",
+        "condition": "Fair"
+      },
+      {
+        "id": "b2a27958-81a1-44f1-9374-8d91a6a8ab05",
+        "title": "Full Moon, Dirty Hearts",
+        "year": "1993",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+    "name": "Shinedown",
+    "albums": [
+      {
+        "id": "ad1faa75-05ed-426f-9134-45b184c2213b",
+        "title": "Leave a Whisper",
+        "year": "2004",
+        "condition": "Good"
+      },
+      {
+        "id": "60b34f65-55ed-41ec-b822-e584dce30508",
+        "title": "Us and Them",
+        "year": "2005",
+        "condition": "Fair"
+      },
+      {
+        "id": "50ac364e-bdf0-4832-84f6-f120b10cbdf0",
+        "title": "ATTENTION ATTENTION",
+        "year": "2018",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "989981cc-8355-413b-a274-6338659ead85",
+        "title": "Threat to Survival",
+        "year": "2015",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+    "name": "Breaking Benjamin",
+    "albums": [
+      {
+        "id": "dee834fd-6507-4728-889a-3648d270adb9",
+        "title": "Dear Agony",
+        "year": "2009",
+        "condition": "Very Good"
+      },
+      {
+        "id": "ababe52a-3f3c-472c-9f82-265996be5985",
+        "title": "Phobia",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "2742accc-14c5-4bd9-8fba-fd1fd16b7c0a",
+        "title": "Ember",
+        "year": "2018",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "ef687a5d-2a83-4e2f-857f-5504d81b7b87",
+        "title": "Dark Before Dawn",
+        "year": "2015",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+    "name": "Lenny Kravitz",
+    "albums": [
+      {
+        "id": "6e2f99ad-4aef-49f9-9c48-11d8e8d96742",
+        "title": "Circus",
+        "year": "1995",
+        "condition": "Fair"
+      },
+      {
+        "id": "33193948-193f-4917-a011-05995bca1517",
+        "title": "Black and White America",
+        "year": "2011",
+        "condition": "Good"
+      },
+      {
+        "id": "00372afe-dfa1-4ddd-b1dd-087c1c47acae",
+        "title": "Lenny",
+        "year": "2001",
+        "condition": "Very Good"
+      },
+      {
+        "id": "7b3f8613-c204-4401-b16a-b503efd939d1",
+        "title": "5",
+        "year": "1999",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+    "name": "System of a Down",
+    "albums": [
+      {
+        "id": "7721fe89-787b-31af-855c-033bf429cbe9",
+        "title": "System of a Down",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "d10b1dbb-ebdc-3f66-b8f8-5685fd5ba5d5",
+        "title": "Mezmerize",
+        "year": "2005",
+        "condition": "Poor"
+      },
+      {
+        "id": "f8a44d0f-8241-3bdd-9988-413f28606650",
+        "title": "Toxicity",
+        "year": "2001",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "d5e089ba-cec8-3b96-9825-841c6443ede1",
+        "title": "Steal This Album!",
+        "year": "2002",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+    "name": "Disturbed",
+    "albums": [
+      {
+        "id": "4a6409b5-719f-4bea-86aa-bdcccf0a11bc",
+        "title": "Indestructible",
+        "year": "2008",
+        "condition": "Very Good"
+      },
+      {
+        "id": "35a92bc3-7314-4b95-8226-02b377bb8c4a",
+        "title": "Immortalized",
+        "year": "2015",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "f2ff5599-a0af-351c-9ee8-94eca82ba567",
+        "title": "The Sickness",
+        "year": "2000",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "f0eeb48a-781f-342f-a49d-e4bfbaf5729e",
+        "title": "Ten Thousand Fists",
+        "year": "2005",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "5f5e9d0d-f951-4903-83ee-c060d70d412b",
+        "title": "Evolution",
+        "year": "2018",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "c531800f-6cc2-4277-88bc-e4b995273778",
+        "title": "Asylum",
+        "year": "2010",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+    "name": "Silversun Pickups",
+    "albums": [
+      {
+        "id": "e40d2904-c51e-4019-a370-b4a1ce7a7d9e",
+        "title": "Carnavas",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "b4366f89-a5af-4d58-8ce6-35f914129ac6",
+        "title": "The Singles Collection",
+        "year": "2014",
+        "condition": "Good"
+      },
+      {
+        "id": "21289194-c574-4752-89b7-045404d03f53",
+        "title": "Pikul",
+        "year": "2005",
+        "condition": "Poor"
+      },
+      {
+        "id": "19cae20f-314d-4b81-a094-78199f1c9bdc",
+        "title": "Better Nature",
+        "year": "2015",
+        "condition": "Fair"
+      },
+      {
+        "id": "e8c34565-14ec-4c39-818a-e9455ddeed8c",
+        "title": "Widow's Weeds",
+        "year": "2019",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "153c9281-268f-4cf3-8938-f5a4593e5df4",
+    "name": "Soundgarden",
+    "albums": [
+      {
+        "id": "ba0a5ae3-f13d-4438-801b-f4ec413cc927",
+        "title": "A-Sides",
+        "year": "1997",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "0c941095-06b8-4d9d-bea2-cdbdaf3bc52d",
+        "title": "Superunknown",
+        "year": "2014",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "9691b2c5-942e-3696-a18a-5e11b73e8f71",
+        "title": "Badmotorfinger",
+        "year": "1991",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "8930033d-9a59-4a45-8f39-c81f67b0c9a8",
+        "title": "King Animal",
+        "year": "2012",
+        "condition": "Mint"
+      },
+      {
+        "id": "8f333a76-d1da-40ff-97ab-9499685c3232",
+        "title": "Screaming Life/Fopp",
+        "year": "1988",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5",
+    "name": "The White Stripes",
+    "albums": [
+      {
+        "id": "4e817a8b-fe02-35e7-a7c5-e5878431a469",
+        "title": "White Blood Cells",
+        "year": "2001",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "31533f88-9156-40c9-97d5-04cccff0c9c0",
+        "title": "Under Great White Northern Lights",
+        "year": "2010",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "7808accb-6395-4b25-858c-678bbb73896b",
+    "name": "Bastille",
+    "albums": [
+      {
+        "id": "2d542c1d-7aaf-43f7-aebf-7fee7f0c746c",
+        "title": "Wild World",
+        "year": "2016",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "eac2544d-eb6a-4ef2-bef5-6d7effe47bc7",
+        "title": "All This Bad Blood",
+        "year": "2014",
+        "condition": "Very Good"
+      },
+      {
+        "id": "53495034-33c0-4d46-be0d-554bc52a4da1",
+        "title": "Bad Blood",
+        "year": "2013",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2",
+    "name": "Siouxsie and the Banshees",
+    "albums": [
+      {
+        "id": "0693bd61-0922-3b4a-8a0b-41f8cea463fb",
+        "title": "The Rapture",
+        "year": "1995",
+        "condition": "Mint"
+      },
+      {
+        "id": "af579224-6a25-4dfe-a8d4-ae6fd977c77d",
+        "title": "Once Upon a Time: The Singles",
+        "year": "1981",
+        "condition": "Mint"
+      },
+      {
+        "id": "1ac6ea1c-c1f5-3d80-8933-1291eab76807",
+        "title": "Join Hands",
+        "year": "1983",
+        "condition": "Mint"
+      },
+      {
+        "id": "72a827c4-0aa0-3426-aec2-132e0a1171fb",
+        "title": "A Kiss in the Dreamhouse",
+        "year": "1992",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+    "name": "Garbage",
+    "albums": [
+      {
+        "id": "2e8472e9-1ab0-4b1f-91df-de931b712bd4",
+        "title": "Bleed Like Me",
+        "year": "2005",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "26d80447-578a-448d-8af6-a25ace2bfb87",
+        "title": "Garbage",
+        "year": "2015",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "0e570462-270e-39b3-97de-aa62530afd82",
+        "title": "beautifulgarbage",
+        "year": "2001",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "4bdcee62-4902-4773-8cd1-e252e2e31225",
+    "name": "Alanis Morissette",
+    "albums": [
+      {
+        "id": "3b58a643-6152-4785-bc35-7bb7a08f8dad",
+        "title": "Jagged Little Pill",
+        "year": "1995",
+        "condition": "Mint"
+      },
+      {
+        "id": "57f878fc-4a86-322d-a833-81377c766b11",
+        "title": "Flavors of Entanglement",
+        "year": "2008",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "dc711701-82a0-4893-9767-73dd4813001b",
+        "title": "The Collection",
+        "year": "2005",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "7f8b214f-548b-4787-b2f0-d2749964fcd4",
+        "title": "Havoc and Bright Lights",
+        "year": "2012",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "07e748f1-075e-428d-85dc-ce3be434e906",
+    "name": "Dave Matthews Band",
+    "albums": [
+      {
+        "id": "5e5a4cd5-43d1-3b78-a535-272f97c015c9",
+        "title": "Under the Table and Dreaming",
+        "year": "1994",
+        "condition": "Mint"
+      },
+      {
+        "id": "1cfdff5c-1273-3658-9e70-3bdeea11747b",
+        "title": "Before These Crowded Streets",
+        "year": "1998",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "e0e1a584-dd0a-4bd1-88d1-c4c62895039d",
+    "name": "Foster the People",
+    "albums": [
+      {
+        "id": "3167dfd6-5a9b-4aa1-af6a-81317d123d47",
+        "title": "Torches",
+        "year": "2011",
+        "condition": "Very Good"
+      },
+      {
+        "id": "dd53d6ad-cba5-4d35-af06-cb19924470b2",
+        "title": "Sacred Hearts Club",
+        "year": "2017",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "3bcaec5b-f3ca-449b-a3fe-7ac5c836b569",
+        "title": "Supermodel",
+        "year": "2014",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+    "name": "Limp Bizkit",
+    "albums": [
+      {
+        "id": "8cdb0058-f1f4-36a7-a57a-7e490c9528f8",
+        "title": "Rock im Park 2001",
+        "year": "2008",
+        "condition": "Very Good"
+      },
+      {
+        "id": "f0ed4791-2491-4ec5-bcaa-781489529077",
+        "title": "Icon",
+        "year": "2011",
+        "condition": "Good"
+      },
+      {
+        "id": "add0c57c-a11d-422d-b26f-dc502e99b2bd",
+        "title": "New Old Songs",
+        "year": "2001",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "ce6314d0-c12d-4436-ad9d-a8e586739d5b",
+        "title": "Gold Cobra",
+        "year": "2011",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "1bdd9bf6-9334-38ab-a1d9-8110d13ff713",
+        "title": "Three Dollar Bill, Yall$",
+        "year": "1997",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "aa266ac7-d919-4132-982e-76cbd95591a7",
+    "name": "Collective Soul",
+    "albums": [
+      {
+        "id": "6fbfaed3-12f3-45ab-8941-13e4bc871cb3",
+        "title": "Home",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "b0bfaccb-66b3-4f34-8c10-f3f28f3c7f38",
+        "title": "Collective Soul",
+        "year": "2009",
+        "condition": "Fair"
+      },
+      {
+        "id": "228dfa85-d0a0-458c-8133-b4594d9e2be0",
+        "title": "Disciplined Breakdown",
+        "year": "1997",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "2d2675c5-4978-4e9b-9eb1-ae86c1d8208d",
+        "title": "Blender",
+        "year": "2000",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "3f4abf92-8e04-44a2-841d-0b714c45cd79",
+        "title": "Youth",
+        "year": "2004",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "77b29df2-056e-409e-a1b2-5e2bbfe421c4",
+    "name": "AWOLNATION",
+    "albums": [
+      {
+        "id": "68f7be25-4e38-4391-8110-bb5befff49e9",
+        "title": "Here Come the Runts",
+        "year": "2018",
+        "condition": "Poor"
+      },
+      {
+        "id": "05356127-c5ad-4882-8628-f031e4c15fc7",
+        "title": "Megalithic Symphony",
+        "year": "2011",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "02bddb79-546a-47ea-bcde-358ce3d70c33",
+        "title": "RE/Sail",
+        "year": "2012",
+        "condition": "Good"
+      },
+      {
+        "id": "b56ded65-932e-4918-96e9-3a6fdd02bc72",
+        "title": "Run",
+        "year": "2015",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
+    "name": "Death Cab for Cutie",
+    "albums": [
+      {
+        "id": "705e6e79-43f4-4b65-9dba-f78e955fb25b",
+        "title": "The Photo Album",
+        "year": "2001",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "a0502d35-d705-40f4-a248-5cea25582e2c",
+        "title": "Drive Well, Sleep Carefully",
+        "year": "2005",
+        "condition": "Good"
+      },
+      {
+        "id": "2deefc93-3d50-43b6-a380-de0de3d86ba1",
+        "title": "Kintsugi",
+        "year": "2015",
+        "condition": "Poor"
+      },
+      {
+        "id": "025eaf54-9ae7-497e-9b81-a2fed09b53ff",
+        "title": "Plans",
+        "year": "2005",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+    "name": "Korn",
+    "albums": [
+      {
+        "id": "d6052181-47a7-4e40-8c61-ab13b41c1a50",
+        "title": "Issues",
+        "year": "1999",
+        "condition": "Fair"
+      },
+      {
+        "id": "f28e423c-78aa-41fe-9959-10794f0bfc3e",
+        "title": "Untitled",
+        "year": "2007",
+        "condition": "Good"
+      },
+      {
+        "id": "7f44d182-e925-448b-98b7-a525314079a0",
+        "title": "The Paradigm Shift",
+        "year": "2014",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "2a5a3b60-d468-4b62-a28f-9c410ad3f71d",
+    "name": "Fuel",
+    "albums": [
+      {
+        "id": "a5825da5-4fd3-45b6-8106-679e09d9579c",
+        "title": "Fuel",
+        "year": "1994",
+        "condition": "Very Good"
+      },
+      {
+        "id": "ee01592b-5da1-3dea-a289-d2b0906b7d5a",
+        "title": "Sunburn",
+        "year": "1998",
+        "condition": "Fair"
+      },
+      {
+        "id": "9c285f59-b2d9-4462-a896-fe0547e188e8",
+        "title": "Something Like Human",
+        "year": "2003",
+        "condition": "Good"
+      },
+      {
+        "id": "49792e9e-fc74-4225-ac09-faf0e8eee2af",
+        "title": "Angels & Devils",
+        "year": "2007",
+        "condition": "Fair"
+      },
+      {
+        "id": "d070dae2-de3a-43ee-bb2b-5544c5033dc2",
+        "title": "Puppet Strings",
+        "year": "2014",
+        "condition": "Good"
+      },
+      {
+        "id": "c4c27547-665e-4992-8825-a2d3fbc362bb",
+        "title": "Natural Selection",
+        "year": "2003",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+    "name": "Big Country",
+    "albums": [
+      {
+        "id": "74f3a595-9162-44b5-8e8e-1770b235e753",
+        "title": "Peace in Our Time",
+        "year": "1988",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "c8d3ff0f-378b-44e7-ad35-8ee215b4f05a",
+        "title": "The Crossing",
+        "year": "1983",
+        "condition": "Fair"
+      },
+      {
+        "id": "ed8f9a55-48e2-3b44-8b8e-2c7d513e0032",
+        "title": "The Seer",
+        "year": "1986",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "99cc3427-5b76-4159-b5d3-333d57c2c74b",
+        "title": "Why the Long Face",
+        "year": "1995",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "e938a15c-b17e-4e7a-9f68-ff0d536cab44",
+    "name": "The Jesus and Mary Chain",
+    "albums": [
+      {
+        "id": "3e179806-5113-4c3c-8b89-bf56606f3512",
+        "title": "Honey's Dead",
+        "year": "1992",
+        "condition": "Very Good"
+      },
+      {
+        "id": "7973e8ee-0a71-34a5-8b78-60f7e8ac8382",
+        "title": "21 Singles",
+        "year": "2002",
+        "condition": "Good"
+      },
+      {
+        "id": "984598cf-4364-4ccc-9ce6-8805dcecfed3",
+        "title": "Honey’s Dead",
+        "year": "1992",
+        "condition": "Poor"
+      },
+      {
+        "id": "c3053632-2120-4cf1-b004-c9df8f961156",
+        "title": "Automatic",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "1d772217-d41e-41fc-8077-76f8cc556e46",
+        "title": "Stoned & Dethroned",
+        "year": "1994",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+    "name": "The B‐52s",
+    "albums": [
+      {
+        "id": "10a1d31d-55cb-4c6a-b43e-93fe7bdeefa1",
+        "title": "Wild Planet",
+        "year": "1980",
+        "condition": "Fair"
+      },
+      {
+        "id": "89412567-089a-477b-890a-3a9eabb90da7",
+        "title": "The B‐52’s",
+        "year": "1987",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "238cdd1f-fa3b-4879-bb14-1827ca99f189",
+        "title": "Bouncing off the Satellites",
+        "year": "1986",
+        "condition": "Fair"
+      },
+      {
+        "id": "92915e3d-32ee-3e26-8503-cc05b8db296b",
+        "title": "Cosmic Thing",
+        "year": "1989",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "c1dfcb24-2c29-3f9f-8ee7-b1ea457d44a0",
+        "title": "Good Stuff",
+        "year": "1992",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+    "name": "My Chemical Romance",
+    "albums": [
+      {
+        "id": "b4eaadb3-b924-4fa3-8d6e-7fd016a86192",
+        "title": "The Black Parade",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "8beeaf1d-dc8f-4a93-8f7e-2eb8e15bb671",
+        "title": "Life on the Murder Scene",
+        "year": "2006",
+        "condition": "Poor"
+      },
+      {
+        "id": "f2659f01-2150-379f-80bd-d43fc31422a4",
+        "title": "The Black Parade Is Dead!",
+        "year": "2008",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "fa7b9055-3703-473a-8a09-adf2fe031a24",
+    "name": "CAKE",
+    "albums": [
+      {
+        "id": "1e841069-a69a-305f-8032-66587e72fe9e",
+        "title": "Fashion Nugget",
+        "year": "1996",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "b9f421ab-8483-4717-995c-f2ee06a9a5ab",
+        "title": "B-Sides and Rarities",
+        "year": "2007",
+        "condition": "Poor"
+      },
+      {
+        "id": "d0c81325-1494-4afe-84be-3466f3858ccc",
+        "title": "Prolonging the Magic",
+        "year": "1998",
+        "condition": "Good"
+      },
+      {
+        "id": "b2568b6d-88ec-4dd0-a41f-df7ea4d33b51",
+        "title": "Pressure Chief",
+        "year": "2004",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "05072650-4b05-4e8b-83d0-dba2576e306a",
+    "name": "Midnight Oil",
+    "albums": [
+      {
+        "id": "7a3b2fe8-c98c-3758-9012-01f0ba494f83",
+        "title": "Breathe",
+        "year": "1996",
+        "condition": "Poor"
+      },
+      {
+        "id": "6c9b8589-9347-34d8-b59c-8640d6a615a9",
+        "title": "Capricornia",
+        "year": "2002",
+        "condition": "Good"
+      },
+      {
+        "id": "8612d400-e6e2-3a0c-8828-a7c35cb4ceb2",
+        "title": "Diesel and Dust",
+        "year": "2008",
+        "condition": "Very Good"
+      },
+      {
+        "id": "3a51d088-320d-48fa-9f31-4035325c4ea4",
+        "title": "Place Without a Postcard",
+        "year": "1990",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+    "name": "Hoobastank",
+    "albums": [
+      {
+        "id": "1bab7c33-f71d-4888-a04f-68eed81a6594",
+        "title": "Every Man for Himself",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "e4359cf3-9c3b-48cf-a5b0-bfaad94b5699",
+        "title": "The Reason",
+        "year": "2003",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "f42c3eda-2a25-4900-9a5b-4432bed6c3f5",
+        "title": "Push Pull",
+        "year": "2018",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "43c54dac-6e48-4e93-9aaa-4eeae8fc9884",
+        "title": "Fight or Flight",
+        "year": "2012",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "7d762834-1786-44a0-85d1-0f3bde56eaf8",
+        "title": "For(n)ever",
+        "year": "2009",
+        "condition": "Good"
+      },
+      {
+        "id": "7172be54-c38e-4142-95d8-c9d719115bf9",
+        "title": "Hoobastank",
+        "year": "2001",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "f1106b17-dcbb-45f6-b938-199ccfab50cc",
+    "name": "New Order",
+    "albums": [
+      {
+        "id": "7297ee1c-7879-4386-bd48-fba95d060de3",
+        "title": "(The Rest of) New Order",
+        "year": "1995",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "9cf24ac1-764c-40d1-aa9f-545c60b9b120",
+        "title": "Retro",
+        "year": "2002",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "0bbb5a12-42f2-4bc2-81af-2a895e2e2572",
+        "title": "Brotherhood",
+        "year": "1986",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "d4532f26-1b63-44ea-9d12-7b358e62cd38",
+        "title": "Power, Corruption & Lies",
+        "year": "1987",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "7da3d360-207a-48b0-89f8-e62d7ccb3cbb",
+        "title": "Republic",
+        "year": "1993",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+    "name": "Counting Crows",
+    "albums": [
+      {
+        "id": "44614c54-926f-4f34-b69d-57f563e9b94d",
+        "title": "This Desert Life",
+        "year": "1999",
+        "condition": "Good"
+      },
+      {
+        "id": "a840e69a-3a92-4bf9-843c-e2b1fec44e3c",
+        "title": "Hard Candy",
+        "year": "2002",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "1c259383-4764-4c7b-8b5b-c975f11ed196",
+        "title": "Somewhere Under Wonderland",
+        "year": "2014",
+        "condition": "Very Good"
+      },
+      {
+        "id": "5f01b2b3-11cf-459f-9f33-579af91d8d78",
+        "title": "Saturday Nights & Sunday Mornings",
+        "year": "2008",
+        "condition": "Good"
+      },
+      {
+        "id": "a834814e-c298-4ac5-9025-eb2fb8fa6f18",
+        "title": "August and Everything After",
+        "year": "2014",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "7986c185-d91d-4204-8ee2-eac5d503fe39",
+    "name": "Better Than Ezra",
+    "albums": [
+      {
+        "id": "f35d37cd-cf12-4dfb-8c0d-e20184ed6f08",
+        "title": "Surprise",
+        "year": "1989",
+        "condition": "Fair"
+      },
+      {
+        "id": "957a1b79-57a9-3cd9-8b23-5644acac7580",
+        "title": "Deluxe",
+        "year": "1993",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "81b6312e-550b-4c8b-9c65-019751915352",
+        "title": "Paper Empire",
+        "year": "2009",
+        "condition": "Fair"
+      },
+      {
+        "id": "2dee8131-bc71-4174-a57a-4a4292b8dfa3",
+        "title": "Before the Robots",
+        "year": "2005",
+        "condition": "Poor"
+      },
+      {
+        "id": "84a0af58-7505-46f1-979b-c80c64375cfc",
+        "title": "Artifakt",
+        "year": "2001",
+        "condition": "Very Good"
+      },
+      {
+        "id": "9690fb23-0be3-41fc-afc0-266cacb8731e",
+        "title": "Death Valley ep",
+        "year": "2011",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+    "name": "Alice in Chains",
+    "albums": [
+      {
+        "id": "0eca2c81-37b9-4cef-8e91-a4fbde079c7c",
+        "title": "The Treehouse Tapes",
+        "year": "1988",
+        "condition": "Mint"
+      },
+      {
+        "id": "fe898c16-115e-45d2-987b-674470173493",
+        "title": "Alice in Chains",
+        "year": "1995",
+        "condition": "Fair"
+      },
+      {
+        "id": "3d683bc4-6852-440e-b4ab-422d4449e2fc",
+        "title": "Music Bank",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "81198322-58c3-4702-801a-31ac4d57b18c",
+        "title": "Rainier Fog",
+        "year": "2018",
+        "condition": "Very Good"
+      }
+    ]
+  },
+  {
+    "id": "b10db9ad-b4c3-47f3-a7a4-37864b134f65",
+    "name": "Soul Asylum",
+    "albums": [
+      {
+        "id": "616c106e-2efb-4cca-8f58-7d204820de2e",
+        "title": "Time's Incinerator",
+        "year": "1986",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "13a988cb-05fc-424c-b09e-62f6a339843b",
+        "title": "Runaway Train",
+        "year": "2001",
+        "condition": "Poor"
+      },
+      {
+        "id": "6e71140a-b7fe-4002-9e80-9c0d9bd8252d",
+        "title": "Grave Dancers Union & Insomniac's Dream",
+        "year": "1998",
+        "condition": "Poor"
+      },
+      {
+        "id": "7e6e7f24-4009-4c70-be16-6b8a4bee39c4",
+        "title": "While You Were Out",
+        "year": "1986",
+        "condition": "Fair"
+      },
+      {
+        "id": "586512df-f352-4f20-9226-1a44716f6fe7",
+        "title": "Delayed Reaction",
+        "year": "2012",
+        "condition": "Fair"
+      }
+    ]
+  },
+  {
+    "id": "1c3919b2-43ca-4a4a-935d-9d50135ec0ef",
+    "name": "AFI",
+    "albums": [
+      {
+        "id": "af22e72b-7049-409e-a81e-0f6f5c0a2a03",
+        "title": "The Art of Drowning",
+        "year": "2000",
+        "condition": "Good"
+      },
+      {
+        "id": "c56e7ea7-004c-4c60-a1bd-0be5096a6675",
+        "title": "AFI",
+        "year": "2004",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "853e0ff8-8587-45df-9242-90c91795d7a7",
+        "title": "Very Proud of Ya",
+        "year": "1996",
+        "condition": "Mint"
+      },
+      {
+        "id": "382bbd93-6924-4266-9db5-f627a5001224",
+        "title": "DECEMBERUNDERGROUND",
+        "year": "2006",
+        "condition": "Mint"
+      },
+      {
+        "id": "5100dc6d-7191-483c-901d-cdb95bf06f88",
+        "title": "Black Sails in the Sunset",
+        "year": "1999",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "516cef4d-0718-4007-9939-f9b38af3f784",
+    "name": "Fall Out Boy",
+    "albums": [
+      {
+        "id": "1974a0ea-3670-3168-be4d-102b00ee9376",
+        "title": "From Under the Cork Tree",
+        "year": "2005",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "56227792-5344-41a0-ab74-ba7608b505eb",
+        "title": "Save Rock and Roll",
+        "year": "2013",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "5eb8b50c-e4c9-4769-84df-c54f51ebe56d",
+        "title": "Make America Psycho Again",
+        "year": "2015",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "73938a51-46a7-439e-9fe0-5d1a809b4dbf",
+        "title": "M A N I A",
+        "year": "2018",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "c044f797-add8-4267-9ae1-acda80e88985",
+        "title": "Take This to Your Grave",
+        "year": "2003",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "92a42e82-b36f-4308-82c1-68bad2e03c89",
+    "name": "Third Eye Blind",
+    "albums": [
+      {
+        "id": "859b070d-b53c-4f09-8c79-fd7696a25300",
+        "title": "Out of the Vein",
+        "year": "2003",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "135bac24-7ff6-4198-a422-51787d1423a4",
+        "title": "Dopamine",
+        "year": "2015",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "28ec6836-8c47-4c63-80a8-5686d7333e43",
+        "title": "Third Eye Blind",
+        "year": "1997",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "5f090d93-de6c-476d-bdf1-0d82369400e5",
+        "title": "Blue",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "08fab741-4d6c-487b-a830-7735ba21addd",
+        "title": "A Collection",
+        "year": "2006",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
+    "name": "Portugal. The Man",
+    "albums": [
+      {
+        "id": "e214811c-9dbd-4413-a7ca-7c72fc0d004f",
+        "title": "It's Complicated Being a Wizard",
+        "year": "2007",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "9c707a4f-60d5-4ddd-a956-14d4f14e3b8d",
+        "title": "Censored Colors",
+        "year": "2008",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "6631fe31-53a7-3b86-afac-8b24bd3b275e",
+        "title": "The Satanic Satanist",
+        "year": "2009",
+        "condition": "Good"
+      },
+      {
+        "id": "335cab55-8a2a-49b2-8813-3a3a8cb6e0c6",
+        "title": "In the Mountain in the Cloud",
+        "year": "2011",
+        "condition": "Good"
+      },
+      {
+        "id": "a10f34d5-8afb-460e-b6d5-a442eb7c4a2c",
+        "title": "American Ghetto",
+        "year": "2010",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "d4aad415-9cd0-4845-9b05-0416fdcc9fc4",
+    "name": "WALK THE MOON",
+    "albums": [
+      {
+        "id": "47478904-2ad9-4d65-a497-7c54dd83789b",
+        "title": "Talking Is Hard",
+        "year": "2014",
+        "condition": "Very Good"
+      },
+      {
+        "id": "8be0981e-428e-4df8-89d5-9f038fae84dc",
+        "title": "What If Nothing",
+        "year": "2017",
+        "condition": "Very Good"
+      },
+      {
+        "id": "d134409b-5bd5-43c4-ad2a-7d24f4b35db8",
+        "title": "Walk the Moon",
+        "year": "2012",
+        "condition": "Good"
+      },
+      {
+        "id": "9045f18d-a8c1-4069-9540-9e1788fc38f0",
+        "title": "I Want! I Want!",
+        "year": "2010",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "900deb12-d5c5-414f-a465-2c5710996c7a",
+        "title": "The Other Side: B-Sides and Rarities",
+        "year": "2009",
+        "condition": "Mint"
+      }
+    ]
+  },
+  {
+    "id": "f9776598-2689-41db-98d3-829f5510021c",
+    "name": "Jesus Jones",
+    "albums": [
+      {
+        "id": "b8121460-6095-4fb2-a029-4da5752f1f17",
+        "title": "Doubt",
+        "year": "1990",
+        "condition": "Good"
+      },
+      {
+        "id": "96672f27-9e72-4bce-9965-a8f75ff843ff",
+        "title": "Perverse",
+        "year": "1993",
+        "condition": "Very Good"
+      },
+      {
+        "id": "a6f42f5e-e78d-43fe-aee1-d362241c4a13",
+        "title": "Liquidizer",
+        "year": "1989",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "d640308d-af45-4101-a146-9dd7be78bc6f",
+        "title": "Already",
+        "year": "1997",
+        "condition": "Poor"
+      },
+      {
+        "id": "2f007971-fc8e-43aa-9e16-27ee46d3f2a6",
+        "title": "London",
+        "year": "2001",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+    "name": "Arctic Monkeys",
+    "albums": [
+      {
+        "id": "85feb97d-40fb-4637-9d28-30d0f20e490f",
+        "title": "Favourite Worst Nightmare",
+        "year": "2007",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "e4d27d92-d662-4d76-b90e-6a8eb33a0987",
+        "title": "Tranquility Base Hotel + Casino",
+        "year": "2018",
+        "condition": "Good"
+      },
+      {
+        "id": "bf584cf2-dc33-433e-b8b2-b85578822726",
+        "title": "AM",
+        "year": "2013",
+        "condition": "Mint"
+      },
+      {
+        "id": "a14df69e-45e5-4e6b-9668-ba0984eb6c3d",
+        "title": "At the Apollo",
+        "year": "2008",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "01809552-4f87-45b0-afff-2c6f0730a3be",
+    "name": "Elvis Presley",
+    "albums": [
+      {
+        "id": "ffd6800b-e446-4a89-8db7-bda486845d8a",
+        "title": "The Sun Sessions",
+        "year": "1976",
+        "condition": "Good"
+      },
+      {
+        "id": "9dd4d7dc-7d99-4f8a-9513-adb67c88a3e7",
+        "title": "Elvis Is Back!",
+        "year": "1999",
+        "condition": "Very Good Plus"
+      },
+      {
+        "id": "f3c85292-d86c-4dc5-8afa-3dd885188c03",
+        "title": "Moody Blue",
+        "year": "2000",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "d4133afb-aedd-4e4c-a220-d36bded41d35",
+        "title": "Good Times",
+        "year": "1996",
+        "condition": "Fair"
+      },
+      {
+        "id": "ee619984-e73e-3c7a-80b1-b2fe7684e875",
+        "title": "G.I. Blues",
+        "year": "2002",
+        "condition": "Good Plus"
+      },
+      {
+        "id": "496db58f-e2c4-4f79-a7f1-d1b87bca8ef2",
+        "title": "Platinum: A Life in Music",
+        "year": "1997",
+        "condition": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "df36f6db-5987-46ed-9d02-0cf36ed4e060",
+    "name": "Vance Joy",
+    "albums": [
+      {
+        "id": "3c77e18e-8970-4fbf-85ef-501ea2d44ab9",
+        "title": "Dream Your Life Away",
+        "year": "2014",
+        "condition": "Fair"
+      },
+      {
+        "id": "bdf7f87e-5b43-4033-84ec-f87d95ae2439",
+        "title": "Nation of Two",
+        "year": "2018",
+        "condition": "Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+    "name": "Queens of the Stone Age",
+    "albums": [
+      {
+        "id": "5a4799d0-b5af-43df-b5a1-95fb19115584",
+        "title": "Era Vulgaris",
+        "year": "2007",
+        "condition": "Mint"
+      },
+      {
+        "id": "96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6",
+        "title": "Like Clockwork",
+        "year": "2013",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "d9e78b16-fa49-4730-978a-d9fb43c72858",
+        "title": "Songs for the Deaf",
+        "year": "2007",
+        "condition": "Poor"
+      },
+      {
+        "id": "db306bf5-ddb5-485f-9783-6136d825051c",
+        "title": "Lullabies to Paralyze",
+        "year": "2005",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "40196f3e-50bc-4c55-8c69-58ff84d5f52b",
+        "title": "Queens of the Stone Age",
+        "year": "2011",
+        "condition": "Fair"
+      },
+      {
+        "id": "76acfd13-61b9-424b-9087-86b1f4e4f13c",
+        "title": "Rated R",
+        "year": "2010",
+        "condition": "Mint"
+      },
+      {
+        "id": "94864262-9da5-4139-b4ad-a233db1b9b7b",
+        "title": "Over the Years and Through the Woods",
+        "year": "2005",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "e3347fbd-2595-480e-926d-278566debf9d",
+    "name": "Sugar",
+    "albums": [
+      {
+        "id": "b19247be-1278-4733-a13b-234a446619f2",
+        "title": "Copper Blue + Beaster",
+        "year": "2012",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "c8550e19-8db1-41ed-8959-19805b4b2399",
+        "title": "Besides",
+        "year": "1995",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "0f97aabd-d3e7-4926-b251-f43cee051526",
+        "title": "Copper Blue",
+        "year": "2011",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "82f5e4fc-3cc3-41bb-b239-8d67edd48a95",
+        "title": "Beaster",
+        "year": "1993",
+        "condition": "Good"
+      },
+      {
+        "id": "69f548da-6370-4880-aacf-c9aa5ff25e8d",
+        "title": "File Under: Easy Listening",
+        "year": "2012",
+        "condition": "Very Good Plus"
+      }
+    ]
+  },
+  {
+    "id": "e1e05cce-3922-44e1-8f20-015abe5e309d",
+    "name": "Social Distortion",
+    "albums": [
+      {
+        "id": "e77fc828-ad4f-49d6-ad7c-4b6aaecb02e5",
+        "title": "Prison Bound",
+        "year": "1988",
+        "condition": "Very Good"
+      },
+      {
+        "id": "b6adfe93-1a09-3f00-a46f-ef264d7e51e9",
+        "title": "Mommy’s Little Monster",
+        "year": "1989",
+        "condition": "Very Good"
+      },
+      {
+        "id": "31748cee-9130-4b48-a208-a959c523380f",
+        "title": "Sex, Love and Rock ’n’ Roll",
+        "year": "2004",
+        "condition": "Very Good"
+      },
+      {
+        "id": "d5a1f715-117a-42ca-ad92-ee45299b517d",
+        "title": "Somewhere Between Heaven and Hell",
+        "year": "1992",
+        "condition": "Good"
+      },
+      {
+        "id": "354c887b-337f-4a8e-8a07-f95bc0d13f89",
+        "title": "White Light White Heat White Trash",
+        "year": "1996",
+        "condition": "Near Mint"
+      }
+    ]
+  },
+  {
+    "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+    "name": "Of Monsters and Men",
+    "albums": [
+      {
+        "id": "99e6139b-13f8-4a9f-9778-265b2c908530",
+        "title": "My Head Is an Animal",
+        "year": "2012",
+        "condition": "Near Mint"
+      },
+      {
+        "id": "40d9ffb0-d593-45dc-b1f5-acbf92b11065",
+        "title": "Beneath the Skin",
+        "year": "2015",
+        "condition": "Good"
+      }
+    ]
+  },
+  {
+    "id": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+    "name": "Godsmack",
+    "albums": [
+      {
+        "id": "9bd1f8dd-26da-47a1-802e-76089d90ac72",
+        "title": "IV",
+        "year": "2006",
+        "condition": "Poor"
+      },
+      {
+        "id": "22366c2f-cfd6-4db6-9772-4cda76883cf2",
+        "title": "All Wound Up",
+        "year": "1997",
+        "condition": "Good"
+      },
+      {
+        "id": "f6be969f-f642-3ed4-9147-cddebf75e3ce",
+        "title": "Godsmack",
+        "year": "1998",
+        "condition": "Very Good"
+      },
+      {
+        "id": "6f1cdf3a-5ecb-4dde-ac60-41873158da6e",
+        "title": "1000HP",
+        "year": "2014",
+        "condition": "Near Mint"
+      }
+    ]
+  }
+]
